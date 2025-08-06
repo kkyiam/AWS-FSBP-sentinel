@@ -12,3 +12,5 @@ policy "iam-password-policy-strong-configuration" {
   }
 }
 ```
+
+Reference: <https://github.com/hashicorp/policy-library-FSBP-Policy-Set-for-AWS-Terraform>
